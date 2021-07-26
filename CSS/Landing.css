@@ -66,8 +66,3 @@ h1{
 h5{
     font-family: 'Hammersmith One', sans-serif;
 }
-@media screen and (max-width: 768px) {
-    #focus {
-        font-size: 50%;
-    }
-}
